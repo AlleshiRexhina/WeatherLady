@@ -1,2 +1,2 @@
 # Weatherlady
-Java-based weather application.
+Java-based weather application (using a weather API).
